@@ -3,7 +3,8 @@
 #### FrontEnd Developer
 
 
-I'm Amirmasoud from Iran,and I'm a Front-End Software Engineer.I reall enjoy work in React.js, Javascript and Typescript,My experience involves the implementation of performance-driven, responsive applications using good practices and modern standards.
+I'm Amirmasoud from Iran,and I'm a Front-End Software Engineer.I love my job and Every day I try to increase my expertise 🏃‍♂️❤️
+I reall enjoy work in React.js, Javascript and Typescript,My experience involves the implementation of performance-driven, responsive applications using good practices and modern standards.
 I'm always working on a new project to help the community 🥰
 
 Skills:

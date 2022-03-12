@@ -1,9 +1,19 @@
 ### Hi there 👋
 
-I'm Amirmasoud from Iran,and I do content  on FronEnd Developer.I reall enjoy learning languages and frameworks like React ,as well as work work in Javascript and Typescript, I,I'm always working on a new project to help the community.
+### Hi there 👋, my name is Amirmasoud Garavand
+#### FrontEnd Developer
+![FrontEnd Developer]([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirmasoudGaravand)](https://github.com/anuraghazra/github-readme-stats))
+
+I'm Amirmasoud from Iran,and I'm a Front-End Software Engineer.I reall enjoy work in React.js, Javascript and Typescript,My experience involves the implementation of performance-driven, responsive applications using good practices and modern standards.
+I'm always working on a new project to help the community.
+
+Skills:  React / Redux-Thunk / Redux-saga / JS /  Axios /  Jquery / Bootstrap / Framer Motion  /  HTML / CSS / Sass /
+
+- 🔭 I’m currently working on https://cloneyoutube1.netlify.app 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirmasoudGaravand)](https://github.com/anuraghazra/github-readme-stats)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/amirmasoudgaravand//)  
+
 
 
 <!--

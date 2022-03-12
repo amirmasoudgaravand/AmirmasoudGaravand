@@ -8,6 +8,7 @@ I'm always working on a new project to help the community 🥰
 
 Skills:
 ⚛️ React / Redux-Thunk / Redux-saga 
+
 💻 JS /  Axios /  Jquery / Bootstrap / Framer Motion  /  HTML / CSS / Sass /
 
 - 🔭 I’m currently working on https://cloneyoutube1.netlify.app 

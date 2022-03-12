@@ -1,12 +1,14 @@
 
-### Hi there 👋, my name is Amirmasoud
+### Hi there 👋, my name is Amirmasoud 😃
 #### FrontEnd Developer
 
 
 I'm Amirmasoud from Iran,and I'm a Front-End Software Engineer.I reall enjoy work in React.js, Javascript and Typescript,My experience involves the implementation of performance-driven, responsive applications using good practices and modern standards.
-I'm always working on a new project to help the community.
+I'm always working on a new project to help the community 🥰
 
-Skills:  React / Redux-Thunk / Redux-saga / JS /  Axios /  Jquery / Bootstrap / Framer Motion  /  HTML / CSS / Sass /
+Skills:
+⚛️ React / Redux-Thunk / Redux-saga 
+💻 JS /  Axios /  Jquery / Bootstrap / Framer Motion  /  HTML / CSS / Sass /
 
 - 🔭 I’m currently working on https://cloneyoutube1.netlify.app 
 

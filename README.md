@@ -1,8 +1,7 @@
-### Hi there 👋
 
 ### Hi there 👋, my name is Amirmasoud Garavand
 #### FrontEnd Developer
-![FrontEnd Developer]([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirmasoudGaravand)](https://github.com/anuraghazra/github-readme-stats))
+([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirmasoudGaravand)](https://github.com/anuraghazra/github-readme-stats))
 
 I'm Amirmasoud from Iran,and I'm a Front-End Software Engineer.I reall enjoy work in React.js, Javascript and Typescript,My experience involves the implementation of performance-driven, responsive applications using good practices and modern standards.
 I'm always working on a new project to help the community.

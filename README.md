@@ -10,7 +10,7 @@ I'm always working on a new project to help the community 🥰
 
 Skills:
 
-⚛️ React / Redux
+⚛️ NextJs / React / Redux
 
 💻 JS /  Typescript /Axios /  Jquery / Bootstrap / Framer Motion  /  HTML / CSS / Sass 
 
